@@ -1,5 +1,5 @@
 import os
-os.system("pip uninstall -y opencv-python")
+# os.system("pip uninstall -y opencv-python")
 
 import streamlit as st
 import tensorflow as tf
